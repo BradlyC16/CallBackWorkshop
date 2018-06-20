@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CallbacksWorkshop</string>
+    <string name="launch_fragment">Launch Fragment</string>
 </resources>
